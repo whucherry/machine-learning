@@ -1,2 +1,2 @@
 # machine-learning
-根据jackcui的教程练习的机器学习项目
+依据jackcui的教程完成的机器学习项目
